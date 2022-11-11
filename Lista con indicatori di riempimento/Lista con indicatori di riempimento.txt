@@ -1,0 +1,20 @@
+LISTA CON INDICATORI DI RIEMPIMENTO 
+
+                                              PARTE 1
+
+Utilizzando i sottoprogrammi e'necessario scrivere un programma in linguaggio C++
+che gestisca i dati della collezione di voti degli studenti.
+In particolare il programma deve essere in grado di gestire i voti che gli studenti hanno ottenuto
+durante la proba scritta. Sono ammessi alla prova pratica tutti gli studenti che hanno ottenuto un voto
+maggiore di 20.
+
+Il programma deve effettuare tali operazioni attraverso l'utilizzo di un menú di comandi:
+
+1. Aquisire i voti dalla collezione.
+- Acquisire il numero di studenti
+- Acquisire i voti degli studenti
+
+2. Stampare i voti della collezione.
+3. Aggiungere un voto alla collezione.
+- Acquisire il nuovo voto
+- Aggiungere il voto in coda alla collezione

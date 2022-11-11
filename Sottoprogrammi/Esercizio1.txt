@@ -1,0 +1,14 @@
+Esercizio n.1
+
+Utilizzando i sottoprogrammi, scrivere un linguaggio C++ che analizza la sequenza di numeri estratti
+tirando un dado. Il dado classico a 6 facce viene tirato 10 volte, e le singole estrazioni (numeri da 1 a 6)
+vengono raccolte.
+
+Il programma effettua le seguenti operzioni attraverso l'utilizzo di un menu di comandi:
+1. acquisisce dalla tastiera i valori delle 10 estrazioni
+2. stampa le estrazioni acquisite sullo schermo
+3. conta quante volte e stato estratto il numero 1
+4. conta quante volte e stato estratto il numero 6
+5. trova il numero piu piccolo tra quelli estratti
+6. verifica se almeno una volta e stato estratto due volte di seguito lo stesso numero(es: un 2 seguito da un 3 seguito da un 5)
+7. calcola la media dei numeri estratti
